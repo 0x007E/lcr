@@ -658,19 +658,7 @@
           "group_by": false,
           "label": "HTL",
           "name": "HTL",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "KLC_S4.2_3V3OUT",
-          "name": "KLC_S4.2_3V3OUT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "KLC_S4.2_VCC",
-          "name": "KLC_S4.2_VCC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -686,21 +674,9 @@
         },
         {
           "group_by": false,
-          "label": "Vendor",
-          "name": "Vendor",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "VendorId",
-          "name": "VendorId",
-          "show": false
-        },
-        {
-          "group_by": false,
           "label": "DigiKey",
           "name": "DigiKey",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -712,6 +688,24 @@
           "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_VCC",
+          "name": "KLC_S4.2_VCC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_3V3OUT",
+          "name": "KLC_S4.2_3V3OUT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Amazon",
+          "name": "Amazon",
           "show": false
         }
       ],

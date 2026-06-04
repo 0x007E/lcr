@@ -274,6 +274,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75e3810d-9c39-4e6a-bb26-fcfde30898b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b9181eba-35f3-4e95-8719-d1d9928742fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14691a25-a097-4cd1-8841-0044d3abf28f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1349304-7a66-46bc-b422-7e6d0af20b50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/9128da24-b35b-4c68-b0e0-a04f919b70fb")
 		(sheetname "/")
@@ -481,6 +533,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "39b9ff38-2306-4feb-a4de-16568c1f8464")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4cd5b118-c154-49d9-8bdc-8ddf885e1c91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "MCP6001T-I/OTCT-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebfe6d73-c2a3-431c-a5dd-6d9dd64d209b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3e2026e-e122-4c93-b6cb-855d3112e474")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3fe0c435-0e0b-470a-91b2-8491e9ea35e2")
 			(effects
 				(font
 					(size 1 1)
@@ -896,6 +1000,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1df293cd-ab67-4913-926e-d490585b58b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103616"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23912990-b636-40d3-8e83-d0e1b0205860")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a30f70a-dc99-48ab-8909-cdd6e8794ad4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "883a96ca-55c1-4f54-8b3d-10ae21d21e80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/687cc58c-688a-4f1a-bc32-cb5ceee3ecd6")
 		(sheetname "/Measurement/")
@@ -1285,6 +1441,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "608325ce-915c-42d1-a64f-f62b55d9c65c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103360"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8984f393-290b-4f22-a380-92b53e792a0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23a3cfbe-2d9f-4130-aed6-1a4c9df6b105")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "49b6f81f-8c9a-4240-a48a-b67281fbaadf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/b31a6a4f-5bd5-4df3-835f-73835a77c505")
 		(sheetname "/")
@@ -1580,6 +1788,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68ec79be-2cb5-4500-a12d-2467cebe0440")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103341"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8de4071a-d6f4-42ab-9c27-2090d68d3bcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa9bb56b-c2fe-46f1-8724-dca25970acc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ea803e7f-0dde-4f37-8856-3f371ebec605")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/fced49f5-1162-4074-9d13-f979a8e6554a")
 		(sheetname "/Measurement/")
@@ -1745,6 +2005,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2fb9753-dc58-4208-bf33-19a7ab256ac9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8db573f-3e59-40da-8555-8f7b486b851e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67b8e035-2d3d-4e8c-90da-0147aeef1503")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7f7c84d-9ccc-44cb-87ec-198056f7cefe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/93729b88-5920-491e-aadb-7b6d909ee6c2")
 		(sheetname "/")
@@ -1903,6 +2215,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "572d000a-83ed-44f1-aa13-c63d43209701")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "83077144-65dc-40d0-a4ec-1ec2f0e5552a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5bc99580-6643-4710-b4a3-353283c2eda9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d7c317c-fd19-4621-be46-cfcf26ffaee6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "234a0111-7e2b-444c-8654-73f1bf48a689")
 			(effects
 				(font
 					(size 1 1)
@@ -2192,11 +2556,50 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "697d6fa0-f77b-44de-a21d-8a1201a9d197")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "906057ba-c878-4ed4-826f-d25869c4d372")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15c7a133-b701-4a33-9a23-a3da386bb044")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/3cbfe414-63e9-4762-9c9a-32658fde1ea1")
 		(sheetname "/Measurement/")
 		(sheetfile "LCR_measurement.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_rect
 			(start -1.75 -1.5)
 			(end 1.75 1.5)
@@ -2325,6 +2728,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f2254c22-8494-432a-8b93-0bc564a8332c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9c30faf3-46ce-403e-9035-a42e61e1a6bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103603"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f81cc328-44de-4c80-aaaf-09dd29e31221")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76f2541f-f759-4fe7-b8db-b61a1aeb1b60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aea7f0a7-76d8-4264-831a-67597afd0ae3")
 			(effects
 				(font
 					(size 1 1)
@@ -2860,6 +3315,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa6b6203-23a7-4721-8338-0ef2bbedc3f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f5cee22-d05d-4800-b143-d575fc5e4583")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0798639-28b3-4cd0-901d-891cd79ada62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d84329c3-db73-4127-8367-5ba4bf052cbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/cfafcfc8-1d04-4ed0-847c-1169f1fec236")
 		(sheetname "/")
@@ -3074,6 +3581,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed020eae-1697-4987-ab1d-5d1e5e64215d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69f9601e-77bf-43b2-a6f9-1237ef68cc3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68cc899b-13e8-4bb1-8da8-1cc09039412e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "252019b2-4a79-4c1b-8c13-c25ea2321a7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/d805e865-4f40-4eb9-ac09-5a85635241cd")
 		(sheetname "/")
@@ -3281,6 +3840,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b0ae78e-301f-490a-93ce-45084c3f5db5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "589511f4-1893-4ade-800e-a082e52a5f80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103444"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f33a252-5957-4832-9a1a-ff2e7c01d760")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe068ccf-c059-451b-b7a7-f3ab880168c4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "955b100b-fdb2-43ab-a7ed-c0c82ed43b83")
 			(effects
 				(font
 					(size 1 1)
@@ -3555,7 +4166,7 @@
 			(net 4 "+3V3")
 			(pinfunction "VO")
 			(pintype "power_out")
-			(uuid "80ee02f2-0c2b-4ba8-a6f7-e4c877ac798f")
+			(uuid "1feea4ba-7458-4ee3-874f-26bf9bd676c5")
 		)
 		(pad "3" smd roundrect
 			(at -5.04 2.28)
@@ -3649,6 +4260,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "efdc1905-5c06-4298-8f2b-32d36b47e13e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bf1da607-2265-4cf7-809e-20813f6121ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "150-MCP3562RT-E/STCT-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f662de49-51cc-4ba3-aab5-3aaf8d8a2f4c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f8b84c82-6dfd-450a-8422-2fbb5dd4ed50")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6fd648ce-631e-4a19-af17-a8e0845b4762")
 			(effects
 				(font
 					(size 1 1)
@@ -4127,6 +4790,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38ee76a7-1a3f-4e6c-a500-d115c26dced7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5abfb03-bd22-4e61-b0c8-41362182c8cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d808262b-c559-40fb-9525-efd70608b977")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd7b0e52-4763-476d-ba74-50537fcf082c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ddc85b93-19dd-4e9d-81b4-b6bece05b52e")
 		(sheetname "/")
@@ -4286,6 +5001,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ed1734c6-ceb8-43b2-9f51-1f551f840f3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" "B07BDFXFRK"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0c40792d-518c-4144-83f8-092267c2fbe2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d81da7dd-6364-4937-a57a-661410d45472")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5821ad4f-5c10-42b4-9cbb-340c522a0ddc")
 			(effects
 				(font
 					(size 1 1)
@@ -4604,6 +5358,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "697966f9-fcc8-45eb-a15e-666c733de5b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103606"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7b80aef-f9b5-4529-aa0c-47dc1a86e477")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3eff68a0-d1b9-426f-a281-e3d0ae86f133")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20085a1f-45ac-4939-b5c5-2ab91ef8115c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "DRL0006A")
 		(path "/150f2638-9cc0-4653-b392-b9c5b82398d2")
 		(sheetname "/")
@@ -4910,11 +5716,50 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3099f6cf-e220-4577-8d0c-260732c751aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dada3ac3-c49f-4f5c-b3b5-bcac3c1392b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7943d89a-8c0a-4685-ad03-3ca46d0609f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/a57a16db-96c4-45bd-9699-c4d8ffb07cce")
 		(sheetname "/Measurement/")
 		(sheetfile "LCR_measurement.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_rect
 			(start -1.75 -1.5)
 			(end 1.75 1.5)
@@ -5042,6 +5887,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0fa47e02-a388-483a-b393-7f1cc74e40b3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23568adf-7796-45d5-ba0d-00e921bdf65f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b2fcc56-c10a-423a-8db3-b9c6fe6c1894")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "def2c1aa-e40b-49cc-90e5-7ac3d4e9a657")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a60524a9-fe9c-4937-abba-b9efa05a4153")
 			(effects
 				(font
 					(size 1 1)
@@ -5214,6 +6111,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16b7f311-f01a-4cbf-8bbd-32f587333b9d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "939c182e-9c66-4ea1-834a-dd42b298e8ff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35ea0437-a6f7-4301-9ddb-4d1f31ca6a4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f001bc7a-a71a-4059-805f-d744f8503447")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/48bc4b14-b270-4970-8f7d-936576e30fe9")
 		(sheetname "/")
@@ -5372,6 +6321,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c357a781-9025-4143-afa1-764499aefe94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "061afae3-3dbb-4682-abbb-cf61456f3295")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4035304-f9f0-48a7-9e02-96f6bacbda71")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d62d60c8-9a28-45ed-a7d7-ee0b6c4deb33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6168ec55-cbf8-44c2-bfbd-1c6625eda46c")
 			(effects
 				(font
 					(size 1 1)
@@ -5544,6 +6545,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c3d7eb34-f2c6-4ad4-9676-472940d3d0cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d69b8fa0-9774-486b-8974-27bcaec154a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ba5d347-247f-4142-a5d7-2642af03f2d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "307e2846-b01c-4d1a-8ad8-a8ccef849069")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/c871d442-f1a5-4dbc-9888-efea1d64e0e1")
 		(sheetname "/Measurement/")
@@ -5702,6 +6755,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "379d117b-3851-4252-877f-cec870b7a35d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "069f55f7-67b3-4a60-b3a0-a6da89af175b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100189"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e931d02f-01f0-4719-995f-e119ba6f14b4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ebba117-c2e5-4be4-ada4-4c67b82dea46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e27e36a-3989-40d6-91d7-9277c339d1e3")
 			(effects
 				(font
 					(size 1 1)
@@ -6014,6 +7119,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7e57e241-1ea2-4b1d-b12d-a2d3d67c8d58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103601"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2585c837-3480-4adc-8ac0-0cef12b5b7b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef78d370-4eea-4925-a507-a346581336f1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f749d4b8-1a2b-4ed6-84b4-7e3db0a2bc14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2fa635d7-b83e-4e69-91c1-69cc77921472")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
@@ -6300,6 +7457,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39eddf96-59db-4143-a54a-f8a8dc74a76d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e57507ba-cfe8-462b-b1f7-962229dbb38d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76a39b95-cb1d-437e-b078-f77863e08f39")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9461a834-8ea8-4ffc-b464-795fc77f3a0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "CP_*")
 		(path "/895360c0-9308-451d-b453-5c98b221cec4")
 		(sheetname "/")
@@ -6507,6 +7716,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "01c1e762-e6d8-47d9-b83f-3ea3912b04fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2fb59ea-82ee-4891-bc8f-9bc87f33c3e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8e3c5576-b11e-4ac3-95fb-59055cd8fcf5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8d5e885-92d9-44ac-b303-b5366401f0a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2489f48e-a6ba-4159-b1f7-84c5397a6771")
 			(effects
 				(font
 					(size 1 1)
@@ -6819,6 +8080,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ec48365-e218-466c-9ad4-da95b162d71c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "101639"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f969d25-1def-4576-a333-537e807d3362")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be2d4268-05f9-4a88-92ff-1d4a4b07149c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd6cfc92-9362-4b31-a2fa-ff17f1d1f94b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/ca44d7f7-4203-4569-b344-7a12e7697ead")
 		(sheetname "/")
@@ -7036,6 +8349,19 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54ae0dea-098d-4353-99d4-6ff915c151fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/3200f5a3-4fab-43da-be79-a8d2b865a643")
 		(sheetname "/Measurement/")
@@ -7194,6 +8520,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a66f10dd-cacb-40d7-a390-b6c3b624aab9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "27326b96-5767-42dd-b9fe-3dccea57057f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "de06e0ba-08f0-4e28-a1c9-0875c2ba647c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5415400-2d9a-4eda-a7ab-2eb1954d1d67")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc0a29b7-1e45-4cf6-b07b-98505a661e08")
 			(effects
 				(font
 					(size 1 1)
@@ -7473,6 +8851,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1bf69a28-d9e2-4111-b45e-f3e327faf993")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16224a42-1f18-4d4a-9787-edcc5b52ffbe")
 			(effects
 				(font
 					(size 1 1)
@@ -7761,6 +9152,19 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aaefeab8-4622-4f0d-8a3f-6935bbe536d8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/fe3cf6db-7123-448f-aa77-f667bc8fdab3")
 		(sheetname "/Measurement/")
@@ -7970,6 +9374,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "afc64d6d-db38-4ef4-8818-8250d8169336")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "29a36f2a-4a06-468f-8d72-4b60fc682777")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "DigiKey" "MCP4921T-E/MSCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "661cbfa7-16dd-4117-8b6c-6e389d092366")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac6e7aaa-11cf-4696-8fb9-f0d82c5b2440")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "253ff8d7-430e-409b-9360-02e95bba2a05")
 			(effects
 				(font
 					(size 1 1)
@@ -8418,6 +9874,19 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6610e464-60b7-4738-9a2d-0431622ef134")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/3fb98ade-780b-44b0-9e31-63332115033b")
 		(sheetname "/Measurement/")
@@ -8579,6 +10048,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b5bedf6-61af-49e8-b867-4b4422d95628")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a4b59f7-1af2-4114-920a-5dd6c379de46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103572"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "252d0fd3-4dbe-44dc-97a3-b91183df5513")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ab26d21-cc55-4389-89b4-7428f5176318")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cc91078-2f00-4f7f-8b28-3a49a244dad5")
 			(effects
 				(font
 					(size 1 1)
@@ -9107,7 +10628,7 @@
 			(pinfunction "SHIELD")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "13f55003-99a8-4c47-bfb5-7b8f7b6920ce")
+			(uuid "85c41b98-7745-4390-920d-b5df5a091f7a")
 		)
 		(pad "S1" smd roundrect
 			(at 5.11 -3.105 270)
@@ -9118,7 +10639,7 @@
 			(pinfunction "SHIELD")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "13f55003-99a8-4c47-bfb5-7b8f7b6920ce")
+			(uuid "85799fc1-40cc-4ee8-943d-a5436fa88a53")
 		)
 		(pad "S1" smd roundrect
 			(at 5.11 0.825 270)
@@ -9129,7 +10650,7 @@
 			(pinfunction "SHIELD")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "13f55003-99a8-4c47-bfb5-7b8f7b6920ce")
+			(uuid "33659a70-1fb4-4dae-972c-248995d826e4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/lib/USB4110-GF-A.step"
@@ -9213,6 +10734,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2a5846fb-8a4a-499d-81b9-b81019d50f96")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d3613eb5-c068-412d-9040-77d4ca99f52d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "102967"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eaf7b04a-412d-4cd9-9582-e4117a5f1bd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "477b40cc-1d81-4bbd-a1e0-fc8e92d5c22a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8233fb29-6565-4267-b05e-b841d345a3f0")
 			(effects
 				(font
 					(size 1 1)
@@ -9387,6 +10960,45 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c74efaf-b43e-4b17-ab54-83a1330c2f55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33299d03-9b13-4736-8d25-66999a3105da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a47dddd-fe90-482a-9ddd-a499ba6a2d08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8181effc-4ad1-441d-b383-7d13eda34959")
 		(sheetname "/")
@@ -9508,6 +11120,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3f6cdd8-e5f9-4005-bb2b-f7f557c2ebe4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "072e3d4b-248d-40b2-947d-64ae232eaa4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103615"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d7bd457-0c51-4dc9-b3f6-05b0c583320a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "973ea4ac-8307-42ef-be80-931767491da7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d457f4de-31a1-4e83-bea6-2b0c70a49fc2")
 			(effects
 				(font
 					(size 1 1)
@@ -9964,6 +11628,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "14b8075b-b433-45f2-8e19-c43f1fd966ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8a874869-ea0a-49f5-8c4b-46a3ffc1c5e7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb462913-826e-4edd-a1ba-0ef61ce22b2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b89f2eb8-7245-477a-8b4e-45c79ab9cae6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/2d3cd0ea-a61c-4115-a760-7e9cac85c075")
 		(sheetname "/Measurement/")
@@ -10122,6 +11838,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ffa2d60b-e61c-4a67-9930-4c54c01fb97c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43ad58ee-5e68-4673-9a33-75b6a228bad5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103600"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac90f3a6-5cf3-4784-8214-bb9c43cf69ba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f10b2f4-f020-4e6a-8c55-6f6da024d022")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efb7bf4b-687c-4a97-95d4-d6551f92b667")
 			(effects
 				(font
 					(size 1 1)
@@ -10444,6 +12212,19 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4205bae4-2691-4261-ac83-0526f349b67f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/41187ca7-4cf5-49d2-b2db-dc308f2717a3")
 		(sheetname "/Measurement/")
@@ -10602,6 +12383,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fe1ef9c2-0ae7-4d6f-9ae6-6c1a47aa1665")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "731f9411-c934-42ee-ab5e-c2965fb75ce4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe56bd92-c545-499d-88d7-f9007d7c11d0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68de15b4-d1ea-4f79-bb97-016a4f326c5b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5b6ced6c-6aca-4a0c-b90a-0686cb115e33")
 			(effects
 				(font
 					(size 1 1)
@@ -10774,6 +12607,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "330913b5-6f6c-4807-943e-9b31560f0e78")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "102967"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a0b7af60-df98-4af7-9bad-caf5fb4e1f92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a5a4165c-c0b6-4a14-80bf-1e68eb14b2f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "116570e1-eabe-48b1-9c04-efdc705f5e5a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/5cb75c41-50fb-422d-aac5-a6768300b364")
 		(sheetname "/Measurement/")
@@ -10933,6 +12818,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8f6da99-777a-45c5-bf5b-e832f785fff0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5328ba58-3d30-44e7-9ab9-e5d906e8ca7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "101614"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5415b9c-1b92-4d0b-a24d-608a18d6fc79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0e1af17-4e28-4f10-95ce-4607fc7bd03c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f7bec71f-d011-4c2a-98b3-0346a26360a4")
 			(effects
 				(font
 					(size 1 1)
@@ -11142,7 +13079,7 @@
 			(net 2 "GND")
 			(pinfunction "A")
 			(pintype "passive")
-			(uuid "83461eaa-0e04-4591-b99c-25d304f6c910")
+			(uuid "54a2b4f0-c11e-4b1d-bb45-f25c06013cf1")
 		)
 		(pad "2" smd rect
 			(at -3.98 2.25 180)
@@ -11160,7 +13097,7 @@
 			(net 53 "Net-(SW3-B)")
 			(pinfunction "B")
 			(pintype "passive")
-			(uuid "5318fc4e-87fa-42b8-a415-abeacccfdca3")
+			(uuid "0771091d-7b96-44db-bd18-b6015c868cd5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
@@ -11244,6 +13181,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eed88d62-dd08-46c3-b74f-f6fe0f5df8bd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a525d744-3e48-4550-b54d-4544fa95d216")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8bc15069-7c2b-483b-b771-789d2f5fc1a8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be7f3300-d0dd-4fde-aebf-007e5b89d803")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5750332e-745d-4672-bbab-9df1bb79af40")
 			(effects
 				(font
 					(size 1 1)
@@ -11465,6 +13454,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e7fbc9d5-7c5c-42b2-b4b9-9d1ff541e0fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "96280d8f-2ddf-4d99-a484-9286ade47a12")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "03c663e0-df51-4de8-bec6-6f303c662e1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac4be92c-42c3-45fc-8734-783dc717af7d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/2dd5c184-0c98-4ed1-82c5-13f8838158b7")
 		(sheetname "/Measurement/")
@@ -11630,6 +13671,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f862c8b8-e20f-4b03-8a97-972d9596f6bf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "103597"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5a299deb-5135-41a3-b6ac-7fe8f2f5630b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ac020a1-ac83-461c-9a0e-610263b79d28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "def1f98f-6288-491f-a681-4e24b111cec3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/ca661aa8-0e20-45d1-8532-14ab7792213f")
 		(sheetname "/")
@@ -11788,6 +13881,58 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf399f88-cded-465e-82af-4597f0e82d38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "56bbe672-4c8e-463c-9f81-d93d216d6597")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f5f21461-356a-43e2-8a49-144e68920f3f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8acf803b-92f7-4fac-92fa-da04a8d8be94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "081346b2-e334-405f-93bf-669d32378d7a")
 			(effects
 				(font
 					(size 1 1)
@@ -12100,6 +14245,58 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef3f3640-7aff-4733-a388-c354334407a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8dd63dbd-d2e1-475e-ad85-f149a4f50f94")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df24ae24-59e3-4856-84c1-b4beb9962182")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "00fd79a6-764e-484e-9f41-5904a04d43aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/b295148f-1aa5-449e-bcd8-26464deb0296")
 		(sheetname "/Measurement/")
@@ -12400,6 +14597,45 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fa317976-cd4e-4778-a2e5-437feb78c551")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2d90c432-f65a-4693-948d-3dc10840c1be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bd3e2ae8-0ef0-4945-b94c-cbe14a53ff62")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a5c346a-802b-4f29-bf00-c023c5609ff0")
 			(effects
 				(font
 					(size 1 1)
@@ -12936,6 +15172,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a7dbf7fd-ef68-4431-9103-726bae914918")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/f0b71c81-34fd-4388-af36-d0950caa1988")
 		(sheetname "/Measurement/")
@@ -13099,6 +15349,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f66cf2c1-788c-4c7f-ba8d-f0ed362de2d6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "38963fae-3456-4161-8544-33eccdfadebe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "103604"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1990f158-777e-42d6-8b8b-0ede21ddc194")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "22da93a3-aaee-435b-bc0e-2d6a57bb43f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fa52a26e-744f-4183-b935-7781388fb599")
 			(effects
 				(font
 					(size 1 1)
@@ -13554,6 +15860,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "68909d5d-c2fe-478b-abe5-af8fbe336b6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "103570"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c0e04eb9-c80e-4df5-8224-de477e7f3921")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d90356ad-24ea-4924-b976-18591ff494ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c35e1ec0-1bae-418e-b929-af9890b4b7e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Inductor_* L_* *Ferrite*")
 		(path "/43345f7a-35ed-4ab6-9fa4-c748d158c7d3")
 		(sheetname "/")
@@ -13780,6 +16142,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5338e35c-60ea-4fd2-9ed5-b538adde496c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/b42e38c0-bd2d-41f5-8351-3201bc7fb7e7")
 		(sheetname "/Measurement/")
@@ -13925,11 +16301,53 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "212d85a1-9870-4ce2-8d62-11599e74ede1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "44ed716b-4b99-4ad4-8b89-3d06553cbde5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "99b0ad87-c028-4a13-9951-d724742fe96a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b8a5ccdc-dc08-4911-b76c-b3ec9093ba8b")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -14047,6 +16465,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b53034be-fbeb-4581-b31d-f3637cbb932d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "85899c8c-4ece-4e45-a351-242b7e66dc4d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "380feba9-30f2-4148-97a5-eda1bdcc8f40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3f31ab59-7690-4bff-aa1b-4630591b0b53")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "434379f1-0a0f-4d6e-ace3-27f06b37a91a")
 			(effects
 				(font
 					(size 1 1)
@@ -14225,6 +16699,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "144f6691-a7e1-4692-8337-2ac7b04aa2e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40155e15-2ee1-4493-96e4-c2d44ee60164")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a501bd97-f853-4772-883a-20e4debf7009")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04b33857-e7b6-4cb4-bd73-39cf6e65d9ae")
 			(effects
 				(font
 					(size 1 1)
@@ -14431,6 +16947,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c3b78eca-456e-437c-a36d-12e5aa4dbe32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79644acc-0714-495c-be07-f8df7efd87f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a9b08bc2-e124-45f3-8296-600b48fd275a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a87b7fc8-bffc-4691-9650-39d47055f459")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/f96b0729-5255-4ebd-be8d-30ec1d6f5063")
 		(sheetname "/")
@@ -14593,6 +17165,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "35c4f0f6-ab08-4796-9dd9-17017225c75a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d2bccab5-cff4-47a9-a353-882b92197908")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "addec97d-caa4-4e7e-b6e0-dfd85bf58635")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8f47321a-0771-4853-acc2-2df9827574c7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d33e927b-4962-4758-b324-44a036432d62")
 			(effects
 				(font
 					(size 1 1)
@@ -14911,6 +17539,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3e88fa63-661a-49d2-9e44-74105e9cbb0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102944"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "16e863ff-c824-448a-be48-8f40b5ad424f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0fc903e0-2532-42ef-bcfa-f9ca46e7f0a5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "04cd430a-c18f-4ea3-82e9-cb40e8fc6801")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/c1001d5b-6d35-48a0-a5e4-7f4970c2066a")
 		(sheetname "/Measurement/")
@@ -15073,6 +17757,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "70224885-dc8a-47c3-8a99-4dec2867ed6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c2ec7100-8d21-435a-b4dc-f7c8cc30f93f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "403d494a-135c-4199-a337-3d042c811b24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9ac2a9b-4461-4db2-bdb6-1a76c733f071")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db9b9d8b-1c65-45f5-8a48-f152169b1d44")
 			(effects
 				(font
 					(size 1 1)
@@ -15391,6 +18131,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a0546148-9f83-4b98-b47b-67e495d3b62d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102962"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c4de9683-eb27-4ea6-986b-d3b2c80fe83a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2fccc9fb-f310-4c80-aa79-e5e01f217c36")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ae89da2-6efd-4afa-b308-c7ad4f16cfee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a2ef12ab-4084-47dd-93de-c04b02757899")
 		(sheetname "/")
@@ -15553,6 +18349,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fe8ce2b6-36dd-4b29-bd45-806e9e21e57d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "db687dbd-c7b2-4818-911f-f9e86edc3ff3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a93fe85-08a8-42f6-bcc2-13b1a56c826f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "745b9721-ba7e-4868-bc98-77d83b819883")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "11df98d7-7474-4451-bb63-dd9325c89a87")
 			(effects
 				(font
 					(size 1 1)
@@ -15731,6 +18583,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "43dbce87-f41e-457c-99bd-ae65d1d840a0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102973"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "121466f0-c973-4797-a7f5-03c35fe9d624")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5ed6ba86-ccdf-43bb-b8f5-4f2a69719181")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ae5a9395-62dc-471a-bb4e-56609fe06d8f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/a5eefa9e-187f-411c-919d-4435667e39bf")
 		(sheetname "/Measurement/")
@@ -15901,6 +18809,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5fd8cbfc-aef8-429f-ba00-abab03f0b211")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f56241b2-0c12-4b2f-b87d-845eebc58087")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b78579c-aa3d-4c21-9934-487ff9773259")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "052cf3c2-aa40-4df2-8254-6b5fc98ce10a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/07d30bcc-dae0-403e-9c99-b49c4f6fc9ff")
 		(sheetname "/Measurement/")
@@ -16046,11 +19010,53 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7dcc942e-6136-45c6-84b1-363c2b44eb3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ac25b490-f440-42d3-a36e-37f583afb295")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4118175a-4c0a-4a3c-89fe-4e784fff74cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/0c2de70f-5b2a-4f36-9758-5632efe90760")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -16168,6 +19174,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "791e36d2-9d26-47a3-b2e9-644cf38d72e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b98eafb0-6ac3-48df-9a60-e11f55ba7964")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6a2f854d-63c5-4042-b9d7-4d94f8d92ff9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5d3f602f-33e6-4248-ad02-88fda855839c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7b1f684e-395a-4934-b414-982f2cf273d1")
 			(effects
 				(font
 					(size 1 1)
@@ -16486,6 +19548,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bb711752-da88-4692-93f0-09823758a579")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "19a1abeb-f611-4ab6-a58c-3d7fc6a96843")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "816dcc40-6c2c-4624-917e-6984617cb00d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01bc8fc9-1d69-433d-ba42-ad090a15c455")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/a74cca8a-85fe-48b3-ba70-837f1d7dbada")
 		(sheetname "/Measurement/")
@@ -16648,6 +19766,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ae21bc6d-e0ed-48f0-abb4-c0adb0b4236d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eef20cba-cae1-43e5-bf92-07d0b36573f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "436338de-f43b-4b10-92ad-ac2de3bb049d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e4d44039-bf61-4895-af4e-0c94e45d419f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e42b8b64-c699-43e8-a586-f215ca033bb5")
 			(effects
 				(font
 					(size 1 1)
@@ -16844,6 +20018,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "337b9c30-f38a-455b-8a29-e62c03eddc5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5acc1938-d463-4f00-913e-f0c3b62ff3f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "546f9d00-adca-4026-9d60-23c8c8f67f27")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4477d17b-6cf9-4b3c-8178-45ead7679af1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "033bdb49-c4b6-4c47-ae48-d3b9277206eb")
 			(effects
 				(font
 					(size 1 1)
@@ -17137,11 +20367,53 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "42679169-674d-4f43-b200-43e5ec276498")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9ecc3e8d-9941-4942-941a-fd3745e30ff1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "222cc6fb-5101-44a2-85f7-2e00b3747e0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/747dc44a-0b53-45c2-a6e8-b9a445400d8f")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -17267,6 +20539,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9ece960b-e6e3-4c92-bab0-a0ebe13023d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f7e5f897-5d7b-46f5-a27b-0d74a99323c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b38948a-2287-4b27-ba4e-63cd6a772bb2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff770055-7f65-4738-93d5-87ac75645ddc")
 			(effects
 				(font
 					(size 1 1)
@@ -17547,6 +20861,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f08b77a1-7754-4ceb-95e6-6552e0833b60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102987"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "dc176324-33e3-4494-8164-f28d386cc800")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b015eb2-d6bb-4455-a5ae-c78484a2099c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70acfd51-294f-40f1-93c6-b095d4cc94d5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/bafff04c-a9f1-482d-8bf3-15c7a2359d79")
 		(sheetname "/")
@@ -17717,6 +21087,48 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "57bc1f2f-a609-41d1-85fa-de85676ae2e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c457804c-c9e1-4766-8545-518af858ea05")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9268e578-12c8-4339-9e7d-bdf3a2a69eed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5cb18f14-c4d9-435f-be95-adfc85b015b7")
 			(effects
 				(font
 					(size 1 1)
@@ -18205,6 +21617,20 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9229ad31-c969-4187-bcef-fcf222306bd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "SSOP*3.9x4.9mm?P0.635mm*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/e48af5e5-6d94-40c8-94e2-9cb4af94e984")
 		(sheetname "/Measurement/")
@@ -18581,6 +22007,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9dce6a8-eaa3-49e5-9666-0ff34da372ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102973"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "301a7299-9ff5-40e8-abf1-97625681652f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "127330f1-4dc0-4fdc-aa1a-f0e3e0544952")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "651a0d7a-b69c-4e32-b03c-ab7acf915b08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/798ba0ad-487d-432a-b6f6-da8b5c153b75")
 		(sheetname "/Measurement/")
@@ -18728,11 +22210,53 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "92f2ea87-10d9-4a42-a068-7eb9408772b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "79205a8b-daf7-4c11-92d8-975d7c7ffbe1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d83460ba-af80-4388-b78d-d48739182240")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/9597d96b-10fe-4461-bee5-63e100eb5e26")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -18850,6 +22374,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "4d088f58-b45d-48f1-9721-239bd931d12f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b9506fbd-570d-44d6-9b86-80bc10682ab7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1f87a486-1e1e-4fbc-b01f-17266f98a0e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ed48a1d6-6e85-4c1f-8ef2-55c18529b7d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "edbe8311-a1d4-4654-bb3e-75557a63fa91")
 			(effects
 				(font
 					(size 1 1)
@@ -19028,6 +22608,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67a91dae-acf7-4c6e-9bef-ccef88dbcd6d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1931ca52-f6a2-40e4-992a-d2a2dfff5001")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9ee33962-48e1-4a64-8f62-32858e2c9433")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "098372fd-7085-4357-81ba-9bc920a3ddbe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/ab8ff1ef-e449-46c4-b3a1-ba6ee5e7515d")
 		(sheetname "/")
@@ -19190,6 +22826,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "8b9862ac-c527-46b9-ba0f-f594786025f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d4a370e6-0f57-48f3-884b-3ec4d9f1d9ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "91d1198e-d66c-4b65-9141-ca80b41624a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2863ddff-df67-407e-b5f9-8116610d36de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9406f0e7-72ec-4584-9cb6-4ee229971181")
 			(effects
 				(font
 					(size 1 1)
@@ -19508,6 +23200,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9a639856-44ca-41ee-9856-a90550739360")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "DigiKey" "18-0603L001/60YRCT-ND"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7ba2d740-5d1b-41ec-b8a3-3493595cd3ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b19da2e8-1d7d-4c92-b624-588d694b6225")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "858bf3b4-cb1a-44a7-a3bb-bc6c955f82ee")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "*Fuse*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/a9a93ab1-8b0e-4396-b4ef-d535a3f18d57")
 		(sheetname "/Measurement/")
@@ -19678,6 +23426,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "858aebd6-1b69-405a-83a8-907c1f299c24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b67226b6-5868-44d8-946a-c769fd00c417")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7db9f0b1-b43d-4cd5-9403-29658a42f840")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a63d9ae3-de5e-4a13-b750-ce0472e251b0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/0fbfc01d-bbc8-479a-8dcf-979da80ef61f")
 		(sheetname "/")
@@ -19823,11 +23627,53 @@
 				)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9fb72b41-5a6d-481d-93bb-9eb354274899")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ddfdfebf-f016-4438-abc6-61d4a6644f28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "25452fc2-2461-4426-a203-221f3d430bbc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "Pin* Test*")
 		(path "/135042e2-ee14-493f-b06c-f11fefacd1af")
 		(sheetname "/")
 		(sheetfile "LCR.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -0.7)
@@ -19945,6 +23791,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9c6b3af4-7cb6-4abe-80a3-51ec5c2db6b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b2bee795-d6a4-4e98-bbf5-0d97cbddf767")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3fbe8982-2217-4612-8a5a-20bfe2ec6a2f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e8a90a33-d18f-4e01-805b-646e1ec4be43")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c60d42f3-0290-459d-abef-2ab3a95cb8e8")
 			(effects
 				(font
 					(size 1 1)
@@ -20263,6 +24165,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "08249840-b100-44c4-827a-783cc8279fa6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100188"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2467852c-e407-44a8-9482-d154b8d4e101")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ff22fe00-09ac-4999-b663-2947e4b0c2b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ca25bae5-8098-4ef5-b011-a4a095ee9119")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/f41ac893-c8e3-4b26-8114-bdb273758ff1")
 		(sheetname "/Measurement/")
@@ -20573,6 +24531,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f6efb042-5b98-4b67-a5f4-52a22f3ecb0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "103602"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "76fdbd9e-09ed-4f0a-8b10-1744607fea58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "70897b09-d9e2-4d4e-9f27-368918d319aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9c0334ca-56a0-49ad-8eca-ffd8b82cb3f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/7e102c38-1064-4703-a1dd-c4eaf9638ff6")
 		(sheetname "/")
@@ -20735,6 +24749,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f13a570e-b224-45e4-b975-357c66f84967")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e9302b4c-42bd-4aa6-8d98-dca3ffc4fd7e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102962"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d385cba5-75a9-45fc-a830-5ad9e46a3aff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7c3ec0ea-104e-4285-b3ab-60a349400322")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b0dfc853-204c-4747-b365-c4a66d85fe21")
 			(effects
 				(font
 					(size 1 1)
@@ -20913,6 +24983,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "84802b95-1096-4c66-8760-d952662e1cbd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102963"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2435389b-6399-40f7-9f12-b79c776b0d45")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eaefb0a8-308c-4098-a1ba-ba7f4b41ab61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4dbe5d7e-3051-4a8f-bfb3-efb0c8dcfc0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/348fa0a3-e21b-4078-8957-9a841485aa5f")
 		(sheetname "/Measurement/")
@@ -21076,6 +25202,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "fb5880ca-d73a-44df-aeae-8583e52dc472")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "29a822ed-5500-4a3f-912e-fc3b52164b5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "103599"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64cc4aae-bee4-447f-bb64-1b4da5f611eb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "77345b9c-1ae0-4bb6-8a05-e914b0fa8ee4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8b76d087-6ae2-47cf-ad8f-34023d6fda17")
 			(effects
 				(font
 					(size 1 1)
@@ -21530,6 +25712,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "10d819d9-72b7-4866-85a0-02e50fc2477f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102913"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6c753b5c-2224-433a-986f-4c59d65ec934")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "e5a43a06-3de9-4beb-857f-1f3218eb40aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "befaad55-3d68-41f7-bdb2-96041beaf66d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/645eee8e-f1f5-407e-b611-d9f3a2dfb57c")
 		(sheetname "/Measurement/")
@@ -21692,6 +25930,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "262cbf46-e2f6-4142-93c2-3d4e03d0d01c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cbd86011-0f8a-472d-b146-236ddfb85f03")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "110591a4-9629-4356-ae60-3202c79f6096")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "12f3655c-a979-4b56-8c32-f016e2846223")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "012506c1-0120-4c5f-b7e3-dd5f2077ba15")
 			(effects
 				(font
 					(size 1 1)
@@ -21870,6 +26164,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "bb580812-124d-43cd-82af-8b6566bd1715")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102963"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "f149f57a-a3b1-4fc0-8d1b-f403ad7030ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "62236e67-1d85-4d8f-80e3-c7d971eab9e5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "2ef2f64b-2212-4f42-9dc4-0dab7d52850e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/c0a71a21-71c9-450b-ba45-6d218d64cba1")
 		(sheetname "/Measurement/")
@@ -22040,6 +26390,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3cc82913-a340-46de-8682-b73180be6466")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102951"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "01f1ab80-9dd1-498e-a8d8-6f94357b8866")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5f94b79a-96ac-4888-9efc-9b9ef346beb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ec732cad-e3d5-499c-b6ae-f8a75bf62062")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/9763b971-a0d8-441f-a396-b6510527c4ed/39eed185-6363-4d0e-89dc-e9fc5caa1cc8")
 		(sheetname "/Measurement/")
@@ -22202,6 +26608,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "c47dc520-cfa7-4042-8df6-3732f94e3526")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "089877d9-3043-43d5-883e-6df81ad4f163")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100206"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "536ae2a4-affc-4e9b-8327-522e92166476")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "ea4dfd75-e208-43eb-adb3-f789c938efed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "67a2104f-fc33-4e0d-afa1-a2089b84de8b")
 			(effects
 				(font
 					(size 1 1)
@@ -22520,6 +26982,62 @@
 				(justify mirror)
 			)
 		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9273e1c5-f840-4bbf-908e-5d47e7e4fa20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "100128"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "c459f91b-45bb-442a-8aeb-4c19b401b35b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d64090d2-aa94-4941-8d38-d9eebd1535d4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0d2495ca-a4d9-40c8-b39d-d35287f83aad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/be613eb9-a3d5-4004-80aa-c5b675a4b35d")
 		(sheetname "/")
@@ -22682,6 +27200,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea93223e-5875-4fd7-a0dd-17ad7cc8b55b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "705e2e69-5106-4c52-91b7-176f5b66ac1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "103620"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7b43c636-e1db-40ee-a3af-653295f41c85")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "959783fc-e54b-464d-80b0-1656ae3899f7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "1432f21e-c10a-462a-8ac5-81877960eb02")
 			(effects
 				(font
 					(size 1 1)
@@ -22901,6 +27475,62 @@
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "f7c58357-7aae-4767-b3ff-15463a6ebe1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Amazon" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "921deec6-b196-45c8-8c29-20c17f88e249")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "HTL" "102945"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9d428a64-e403-4aa9-9c9c-4980d38ddc4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "58484062-80d4-41dc-b67f-51afc64e1995")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "23c99cb0-6592-4f1b-952a-b006d8b0b954")
 			(effects
 				(font
 					(size 1 1)

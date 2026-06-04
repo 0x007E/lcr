@@ -5424,7 +5424,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0c2de70f-5b2a-4f36-9758-5632efe90760")
@@ -5466,6 +5466,33 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 204.47 85.09 0)
 			(effects
 				(font
@@ -5539,8 +5566,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 144.78 73.66 0)
+		(property "Amazon" ""
+			(at 144.78 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5548,8 +5575,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 144.78 73.66 0)
+		(property "HTL" "102951"
+			(at 144.78 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 144.78 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 144.78 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,8 +5671,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 237.49 148.59 0)
+		(property "Amazon" ""
+			(at 237.49 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5635,8 +5680,17 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" ""
-			(at 237.49 148.59 0)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 237.49 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 237.49 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5658,7 +5712,7 @@
 		(at 161.29 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5701,6 +5755,33 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 161.29 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 161.29 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 161.29 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 161.29 85.09 0)
 			(effects
 				(font
@@ -5774,7 +5855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 176.53 95.25 0)
 			(effects
 				(font
@@ -5783,7 +5864,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103603"
+		(property "HTL" "103603"
+			(at 176.53 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 176.53 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 176.53 95.25 0)
 			(effects
 				(font
@@ -5864,7 +5963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 193.04 95.25 0)
 			(effects
 				(font
@@ -5873,7 +5972,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103606"
+		(property "HTL" "103606"
+			(at 193.04 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 193.04 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 193.04 95.25 0)
 			(effects
 				(font
@@ -6030,7 +6147,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 107.95 86.36 0)
 			(effects
 				(font
@@ -6039,7 +6156,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103599"
+		(property "HTL" "103599"
+			(at 107.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 107.95 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 107.95 86.36 0)
 			(effects
 				(font
@@ -6110,6 +6245,42 @@
 		)
 		(property "Description" "P-MOSFET transistor, gate/drain/source, drain connected to mounting plane"
 			(at 132.08 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 132.08 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "103601"
+			(at 132.08 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 132.08 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 132.08 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6323,7 +6494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 152.4 171.45 0)
 			(effects
 				(font
@@ -6332,7 +6503,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 152.4 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 152.4 171.45 0)
 			(effects
 				(font
@@ -6411,8 +6600,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 69.85 73.66 0)
+		(property "Amazon" ""
+			(at 69.85 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6420,8 +6609,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103570"
-			(at 69.85 73.66 0)
+		(property "HTL" "103570"
+			(at 69.85 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 69.85 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 69.85 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6628,7 +6835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 127 171.45 0)
 			(effects
 				(font
@@ -6637,7 +6844,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 127 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 127 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 127 171.45 0)
 			(effects
 				(font
@@ -6781,7 +7006,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 220.98 92.71 0)
 			(effects
 				(font
@@ -6790,7 +7015,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 220.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 220.98 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 220.98 92.71 0)
 			(effects
 				(font
@@ -7194,8 +7437,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 213.36 148.59 0)
+		(property "Amazon" ""
+			(at 213.36 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7203,8 +7446,17 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" ""
-			(at 213.36 148.59 0)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 213.36 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 213.36 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7340,7 +7592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 85.09 78.74 0)
 			(effects
 				(font
@@ -7349,7 +7601,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 85.09 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 85.09 78.74 0)
 			(effects
 				(font
@@ -7511,7 +7781,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "747dc44a-0b53-45c2-a6e8-b9a445400d8f")
@@ -7553,6 +7823,33 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 264.16 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 264.16 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 264.16 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 264.16 85.09 0)
 			(effects
 				(font
@@ -7626,8 +7923,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 209.55 91.44 0)
+		(property "Amazon" ""
+			(at 209.55 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7635,8 +7932,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103602"
-			(at 209.55 91.44 0)
+		(property "HTL" "103602"
+			(at 209.55 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 209.55 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 209.55 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7714,8 +8029,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 262.89 149.86 0)
+		(property "Amazon" ""
+			(at 262.89 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7723,8 +8038,17 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" ""
-			(at 262.89 149.86 0)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 262.89 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 262.89 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7864,7 +8188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 76.2 171.45 0)
 			(effects
 				(font
@@ -7873,7 +8197,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 76.2 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 76.2 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 76.2 171.45 0)
 			(effects
 				(font
@@ -8017,7 +8359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 63.5 171.45 0)
 			(effects
 				(font
@@ -8026,7 +8368,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 63.5 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 63.5 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 63.5 171.45 0)
 			(effects
 				(font
@@ -8102,7 +8462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 44.45 88.9 0)
 			(effects
 				(font
@@ -8111,7 +8471,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103572"
+		(property "HTL" "103572"
+			(at 44.45 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 44.45 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 44.45 88.9 0)
 			(effects
 				(font
@@ -8234,7 +8612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 114.3 171.45 0)
 			(effects
 				(font
@@ -8243,7 +8621,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 114.3 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 114.3 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 114.3 171.45 0)
 			(effects
 				(font
@@ -8273,7 +8669,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "9597d96b-10fe-4461-bee5-63e100eb5e26")
@@ -8315,6 +8711,33 @@
 			)
 		)
 		(property "Description" "test point (alternative probe-style design)"
+			(at 132.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 132.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 132.08 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 132.08 72.39 0)
 			(effects
 				(font
@@ -8387,8 +8810,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 193.04 86.36 0)
+		(property "Amazon" ""
+			(at 193.04 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8396,8 +8819,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103600"
-			(at 193.04 86.36 0)
+		(property "HTL" "103600"
+			(at 193.04 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 193.04 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 193.04 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8474,7 +8915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 88.9 171.45 0)
 			(effects
 				(font
@@ -8483,7 +8924,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 88.9 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 88.9 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 88.9 171.45 0)
 			(effects
 				(font
@@ -8562,7 +9021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -8571,7 +9030,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 232.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 232.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 232.41 92.71 0)
 			(effects
 				(font
@@ -8647,8 +9124,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 64.77 78.74 0)
+		(property "Amazon" ""
+			(at 64.77 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8656,8 +9133,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102962"
-			(at 64.77 78.74 0)
+		(property "HTL" "102962"
+			(at 64.77 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 64.77 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 64.77 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8864,7 +9359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 165.1 171.45 0)
 			(effects
 				(font
@@ -8873,7 +9368,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 165.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 165.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 165.1 171.45 0)
 			(effects
 				(font
@@ -9015,7 +9528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 138.43 80.01 0)
 			(effects
 				(font
@@ -9024,7 +9537,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103360"
+		(property "HTL" "103360"
+			(at 138.43 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 138.43 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 138.43 80.01 0)
 			(effects
 				(font
@@ -9053,7 +9584,7 @@
 		(at 125.73 85.09 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b8a5ccdc-dc08-4911-b76c-b3ec9093ba8b")
@@ -9096,6 +9627,33 @@
 		)
 		(property "Description" "test point (alternative probe-style design)"
 			(at 125.73 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Amazon" ""
+			(at 125.73 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 125.73 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 125.73 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9167,8 +9725,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 209.55 104.14 0)
+		(property "Amazon" ""
+			(at 209.55 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9176,8 +9734,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102987"
-			(at 209.55 104.14 0)
+		(property "HTL" "102987"
+			(at 209.55 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 209.55 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 209.55 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9255,7 +9831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 149.86 91.44 0)
 			(effects
 				(font
@@ -9264,7 +9840,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 149.86 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 149.86 91.44 0)
 			(effects
 				(font
@@ -9406,8 +10000,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 119.38 86.36 0)
+		(property "Amazon" ""
+			(at 119.38 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9415,8 +10009,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "101639"
-			(at 119.38 86.36 0)
+		(property "HTL" "101639"
+			(at 119.38 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 119.38 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 119.38 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9492,8 +10104,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 78.74 73.66 0)
+		(property "Amazon" ""
+			(at 78.74 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9501,8 +10113,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103597"
-			(at 78.74 73.66 0)
+		(property "HTL" "103597"
+			(at 78.74 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 78.74 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 78.74 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9577,8 +10207,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 64.77 81.28 0)
+		(property "Amazon" ""
+			(at 64.77 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9586,8 +10216,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102962"
-			(at 64.77 81.28 0)
+		(property "HTL" "102962"
+			(at 64.77 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 64.77 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 64.77 81.28 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9664,7 +10312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 138.43 91.44 0)
 			(effects
 				(font
@@ -9673,7 +10321,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 138.43 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 138.43 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 138.43 91.44 0)
 			(effects
 				(font
@@ -9817,7 +10483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 251.46 92.71 0)
 			(effects
 				(font
@@ -9826,7 +10492,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103620"
+		(property "HTL" "103620"
+			(at 251.46 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 251.46 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 251.46 92.71 0)
 			(effects
 				(font
@@ -9904,8 +10588,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 250.19 148.59 0)
+		(property "Amazon" ""
+			(at 250.19 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,8 +10597,17 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" ""
-			(at 250.19 148.59 0)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 250.19 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 250.19 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9985,8 +10678,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" ""
-			(at 224.79 148.59 0)
+		(property "Amazon" ""
+			(at 224.79 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,8 +10687,17 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" ""
-			(at 224.79 148.59 0)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 224.79 148.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 224.79 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10132,7 +10834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 95.25 78.74 0)
 			(effects
 				(font
@@ -10141,7 +10843,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 95.25 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 95.25 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 95.25 78.74 0)
 			(effects
 				(font
@@ -10218,8 +10938,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 264.16 92.71 0)
+		(property "Amazon" ""
+			(at 264.16 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10227,8 +10947,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100189"
-			(at 264.16 92.71 0)
+		(property "HTL" "100189"
+			(at 264.16 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 264.16 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 264.16 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10304,7 +11042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 242.57 86.36 0)
 			(effects
 				(font
@@ -10313,7 +11051,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "103444"
+		(property "HTL" "103444"
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 242.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 242.57 86.36 0)
 			(effects
 				(font
@@ -10393,8 +11149,8 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
-			(at 166.37 92.71 0)
+		(property "Amazon" ""
+			(at 166.37 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10402,8 +11158,26 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "102951"
-			(at 166.37 92.71 0)
+		(property "HTL" "102951"
+			(at 166.37 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 166.37 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
+			(at 166.37 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10545,7 +11319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 139.7 171.45 0)
 			(effects
 				(font
@@ -10554,7 +11328,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 139.7 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 139.7 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 139.7 171.45 0)
 			(effects
 				(font
@@ -10632,7 +11424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Vendor" "HTL"
+		(property "Amazon" ""
 			(at 101.6 171.45 0)
 			(effects
 				(font
@@ -10641,7 +11433,25 @@
 				(hide yes)
 			)
 		)
-		(property "VendorId" "100128"
+		(property "HTL" "100128"
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_3V3OUT" ""
+			(at 101.6 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.2_VCC" ""
 			(at 101.6 171.45 0)
 			(effects
 				(font
