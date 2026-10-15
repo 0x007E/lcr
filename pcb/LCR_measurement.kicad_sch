@@ -13262,7 +13262,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey" "MCP4921T-E/MSCT-ND"
+		(property "DigiKey" "MCP4921T-E/SNCT-ND"
 			(at 160.02 115.57 0)
 			(effects
 				(font

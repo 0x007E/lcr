@@ -9314,7 +9314,7 @@
 		(property "Reference" "U6"
 			(at 0 -3.068 0)
 			(layer "F.SilkS")
-			(uuid "0b53ae39-2441-4e8c-b3a2-42f70903d07f")
+			(uuid "8cd52d26-9d6a-41da-ba99-61999ac2d357")
 			(effects
 				(font
 					(size 0.6 0.6)
@@ -9325,7 +9325,7 @@
 		(property "Value" "MCP4921"
 			(at 2.859 0.889 90)
 			(layer "F.Fab")
-			(uuid "18488170-34e1-49c4-b421-049b013986d1")
+			(uuid "4890fc07-cbf7-4e42-9615-0d8f07d7c774")
 			(effects
 				(font
 					(size 1 1)
@@ -9337,7 +9337,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7a1e967-72ce-4cb5-9067-97ed28d6a39f")
+			(uuid "06803eaa-d7e4-4da8-8af1-c06d0be16b5c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9349,7 +9349,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2b808cad-f55f-4730-883d-05c513f25f7b")
+			(uuid "28677103-0eee-40e4-8615-ac3b22861848")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9394,7 +9394,7 @@
 				)
 			)
 		)
-		(property "DigiKey" "MCP4921T-E/MSCT-ND"
+		(property "DigiKey" "MCP4921T-E/SNCT-ND"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
